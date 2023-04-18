@@ -1,0 +1,1 @@
+This project focuses on the use of virtual machines and the use of a local terminal to push information to github, instead of using the sandbox. 
